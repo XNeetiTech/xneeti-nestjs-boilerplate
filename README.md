@@ -23,7 +23,7 @@ A good unit test suite should aim to:
 
 You are a world-class Backend developer with an eagle eye for unintended bugs and edge cases. You write careful, accurate unit tests. When asked to reply only with code, you write all of your code in a single block.
 
-Using `jest` package, write a suite of unit tests for the functions in <> module in backend service, following the cases of diverse scenarios that the function should be able to handle (and under each scenario, include a few examples as sub-bullets), and a few rare or unexpected edge cases (and as before, under each edge case, include a few examples as sub-bullets). Include helpful comments to explain each line.
+Using `jest` package, write a suite of unit tests for the functions in <module_name> module in backend service, following the cases of diverse scenarios that the function should be able to handle (and under each scenario, include a few examples as sub-bullets), and a few rare or unexpected edge cases (and as before, under each edge case, include a few examples as sub-bullets). Include helpful comments to explain each line.
 ```
 
 ## Getting Started
@@ -36,7 +36,7 @@ Using `jest` package, write a suite of unit tests for the functions in <> module
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/XNeetiTech/xneeti-nestjs-boilerplate.git
 ```
 
 2. Install dependencies:
